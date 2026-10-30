@@ -49,6 +49,10 @@ Counts of individuals with 0–3 positive results were generated from the multin
 
 The simulated counts are reproduced exactly from the seeds, and so are the closed-form estimates and the admissibility status of both methods. In a few sparse-data datasets, where the likelihood is nearly flat, numerical BFGS can stop at slightly different points depending on the platform and R version.
 
+## Use of AI assistance
+
+The code in this repository, and the organisation and documentation of the repository, were developed with the assistance of Claude (Anthropic), an AI assistant. The authors specified the methods, reviewed and ran all code, checked the results against the manuscript, and take full responsibility for the content.
+
 ## Licence
 
 MIT (see `LICENSE`).
