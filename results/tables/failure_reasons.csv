@@ -1,0 +1,271 @@
+"method","p_true","alpha_true","gamma_true","N","failure_reason","frequency","proportion"
+"Closed-form",0.05,0.1,0.9,100,"k_den_nonpositive_or_nonfinite",15,0.0417827298050139
+"Closed-form",0.05,0.1,0.9,100,"point_estimate_outside_open_unit_interval",344,0.958217270194986
+"Closed-form",0.05,0.1,0.9,250,"k_den_nonpositive_or_nonfinite",1,0.00434782608695652
+"Closed-form",0.05,0.1,0.9,250,"point_estimate_outside_open_unit_interval",229,0.995652173913044
+"Closed-form",0.05,0.1,0.9,500,"point_estimate_outside_open_unit_interval",109,1
+"Closed-form",0.05,0.1,0.9,750,"point_estimate_outside_open_unit_interval",77,1
+"Closed-form",0.05,0.1,0.9,1000,"point_estimate_outside_open_unit_interval",48,1
+"Closed-form",0.05,0.1,0.93,100,"k_den_nonpositive_or_nonfinite",10,0.0347222222222222
+"Closed-form",0.05,0.1,0.93,100,"point_estimate_outside_open_unit_interval",278,0.965277777777778
+"Closed-form",0.05,0.1,0.93,250,"point_estimate_outside_open_unit_interval",152,1
+"Closed-form",0.05,0.1,0.93,500,"point_estimate_outside_open_unit_interval",62,1
+"Closed-form",0.05,0.1,0.93,750,"point_estimate_outside_open_unit_interval",32,1
+"Closed-form",0.05,0.1,0.93,1000,"point_estimate_outside_open_unit_interval",10,1
+"Closed-form",0.05,0.1,0.96,100,"k_den_nonpositive_or_nonfinite",2,0.00790513833992095
+"Closed-form",0.05,0.1,0.96,100,"point_estimate_outside_open_unit_interval",251,0.992094861660079
+"Closed-form",0.05,0.1,0.96,250,"point_estimate_outside_open_unit_interval",52,1
+"Closed-form",0.05,0.1,0.96,500,"point_estimate_outside_open_unit_interval",12,1
+"Closed-form",0.05,0.1,0.96,750,"point_estimate_outside_open_unit_interval",3,1
+"Closed-form",0.05,0.1,0.96,1000,"point_estimate_outside_open_unit_interval",1,1
+"Closed-form",0.05,0.1,0.99,100,"k_den_nonpositive_or_nonfinite",4,0.0105540897097625
+"Closed-form",0.05,0.1,0.99,100,"point_estimate_outside_open_unit_interval",375,0.989445910290237
+"Closed-form",0.05,0.1,0.99,250,"point_estimate_outside_open_unit_interval",44,1
+"Closed-form",0.05,0.2,0.9,100,"k_den_nonpositive_or_nonfinite",24,0.0754716981132075
+"Closed-form",0.05,0.2,0.9,100,"point_estimate_outside_open_unit_interval",294,0.924528301886792
+"Closed-form",0.05,0.2,0.9,250,"k_den_nonpositive_or_nonfinite",1,0.00775193798449612
+"Closed-form",0.05,0.2,0.9,250,"point_estimate_outside_open_unit_interval",128,0.992248062015504
+"Closed-form",0.05,0.2,0.9,500,"point_estimate_outside_open_unit_interval",43,1
+"Closed-form",0.05,0.2,0.9,750,"point_estimate_outside_open_unit_interval",21,1
+"Closed-form",0.05,0.2,0.9,1000,"point_estimate_outside_open_unit_interval",10,1
+"Closed-form",0.05,0.2,0.93,100,"k_den_nonpositive_or_nonfinite",14,0.0614035087719298
+"Closed-form",0.05,0.2,0.93,100,"point_estimate_outside_open_unit_interval",214,0.93859649122807
+"Closed-form",0.05,0.2,0.93,250,"point_estimate_outside_open_unit_interval",49,1
+"Closed-form",0.05,0.2,0.93,500,"point_estimate_outside_open_unit_interval",9,1
+"Closed-form",0.05,0.2,0.93,750,"point_estimate_outside_open_unit_interval",4,1
+"Closed-form",0.05,0.2,0.96,100,"k_den_nonpositive_or_nonfinite",9,0.0489130434782609
+"Closed-form",0.05,0.2,0.96,100,"point_estimate_outside_open_unit_interval",175,0.951086956521739
+"Closed-form",0.05,0.2,0.96,250,"point_estimate_outside_open_unit_interval",14,1
+"Closed-form",0.05,0.2,0.96,750,"point_estimate_outside_open_unit_interval",1,1
+"Closed-form",0.05,0.2,0.99,100,"k_den_nonpositive_or_nonfinite",11,0.0355987055016181
+"Closed-form",0.05,0.2,0.99,100,"point_estimate_outside_open_unit_interval",298,0.964401294498382
+"Closed-form",0.05,0.2,0.99,250,"point_estimate_outside_open_unit_interval",41,1
+"Closed-form",0.05,0.2,0.99,500,"point_estimate_outside_open_unit_interval",4,1
+"Closed-form",0.05,0.3,0.9,100,"k_den_nonpositive_or_nonfinite",68,0.171717171717172
+"Closed-form",0.05,0.3,0.9,100,"point_estimate_outside_open_unit_interval",328,0.828282828282828
+"Closed-form",0.05,0.3,0.9,250,"k_den_nonpositive_or_nonfinite",2,0.0155038759689922
+"Closed-form",0.05,0.3,0.9,250,"point_estimate_outside_open_unit_interval",127,0.984496124031008
+"Closed-form",0.05,0.3,0.9,500,"point_estimate_outside_open_unit_interval",42,1
+"Closed-form",0.05,0.3,0.9,750,"point_estimate_outside_open_unit_interval",17,1
+"Closed-form",0.05,0.3,0.9,1000,"point_estimate_outside_open_unit_interval",4,1
+"Closed-form",0.05,0.3,0.93,100,"k_den_nonpositive_or_nonfinite",36,0.108761329305136
+"Closed-form",0.05,0.3,0.93,100,"point_estimate_outside_open_unit_interval",295,0.891238670694864
+"Closed-form",0.05,0.3,0.93,250,"point_estimate_outside_open_unit_interval",68,1
+"Closed-form",0.05,0.3,0.93,500,"point_estimate_outside_open_unit_interval",15,1
+"Closed-form",0.05,0.3,0.93,750,"point_estimate_outside_open_unit_interval",1,1
+"Closed-form",0.05,0.3,0.96,100,"k_den_nonpositive_or_nonfinite",17,0.0641509433962264
+"Closed-form",0.05,0.3,0.96,100,"point_estimate_outside_open_unit_interval",248,0.935849056603774
+"Closed-form",0.05,0.3,0.96,250,"point_estimate_outside_open_unit_interval",44,1
+"Closed-form",0.05,0.3,0.96,500,"point_estimate_outside_open_unit_interval",3,1
+"Closed-form",0.05,0.3,0.96,750,"point_estimate_outside_open_unit_interval",1,1
+"Closed-form",0.05,0.3,0.99,100,"k_den_nonpositive_or_nonfinite",20,0.0510204081632653
+"Closed-form",0.05,0.3,0.99,100,"point_estimate_outside_open_unit_interval",372,0.948979591836735
+"Closed-form",0.05,0.3,0.99,250,"point_estimate_outside_open_unit_interval",107,1
+"Closed-form",0.05,0.3,0.99,500,"point_estimate_outside_open_unit_interval",36,1
+"Closed-form",0.05,0.3,0.99,750,"point_estimate_outside_open_unit_interval",26,1
+"Closed-form",0.05,0.3,0.99,1000,"point_estimate_outside_open_unit_interval",4,1
+"Closed-form",0.05,0.4,0.9,100,"k_den_nonpositive_or_nonfinite",137,0.272365805168986
+"Closed-form",0.05,0.4,0.9,100,"point_estimate_outside_open_unit_interval",366,0.727634194831014
+"Closed-form",0.05,0.4,0.9,250,"k_den_nonpositive_or_nonfinite",24,0.107142857142857
+"Closed-form",0.05,0.4,0.9,250,"point_estimate_outside_open_unit_interval",200,0.892857142857143
+"Closed-form",0.05,0.4,0.9,500,"k_den_nonpositive_or_nonfinite",1,0.0125
+"Closed-form",0.05,0.4,0.9,500,"point_estimate_outside_open_unit_interval",79,0.9875
+"Closed-form",0.05,0.4,0.9,750,"point_estimate_outside_open_unit_interval",37,1
+"Closed-form",0.05,0.4,0.9,1000,"point_estimate_outside_open_unit_interval",8,1
+"Closed-form",0.05,0.4,0.93,100,"k_den_nonpositive_or_nonfinite",65,0.13771186440678
+"Closed-form",0.05,0.4,0.93,100,"point_estimate_outside_open_unit_interval",407,0.86228813559322
+"Closed-form",0.05,0.4,0.93,250,"k_den_nonpositive_or_nonfinite",3,0.0201342281879195
+"Closed-form",0.05,0.4,0.93,250,"point_estimate_outside_open_unit_interval",146,0.979865771812081
+"Closed-form",0.05,0.4,0.93,500,"point_estimate_outside_open_unit_interval",27,1
+"Closed-form",0.05,0.4,0.93,750,"point_estimate_outside_open_unit_interval",10,1
+"Closed-form",0.05,0.4,0.93,1000,"point_estimate_outside_open_unit_interval",3,1
+"Closed-form",0.05,0.4,0.96,100,"k_den_nonpositive_or_nonfinite",26,0.0643564356435644
+"Closed-form",0.05,0.4,0.96,100,"point_estimate_outside_open_unit_interval",378,0.935643564356436
+"Closed-form",0.05,0.4,0.96,250,"point_estimate_outside_open_unit_interval",118,1
+"Closed-form",0.05,0.4,0.96,500,"point_estimate_outside_open_unit_interval",18,1
+"Closed-form",0.05,0.4,0.96,750,"point_estimate_outside_open_unit_interval",7,1
+"Closed-form",0.05,0.4,0.96,1000,"point_estimate_outside_open_unit_interval",4,1
+"Closed-form",0.05,0.4,0.99,100,"k_den_nonpositive_or_nonfinite",47,0.0907335907335907
+"Closed-form",0.05,0.4,0.99,100,"point_estimate_outside_open_unit_interval",471,0.909266409266409
+"Closed-form",0.05,0.4,0.99,250,"point_estimate_outside_open_unit_interval",229,1
+"Closed-form",0.05,0.4,0.99,500,"point_estimate_outside_open_unit_interval",103,1
+"Closed-form",0.05,0.4,0.99,750,"point_estimate_outside_open_unit_interval",62,1
+"Closed-form",0.05,0.4,0.99,1000,"point_estimate_outside_open_unit_interval",31,1
+"Closed-form",0.1,0.1,0.9,100,"point_estimate_outside_open_unit_interval",178,1
+"Closed-form",0.1,0.1,0.9,250,"point_estimate_outside_open_unit_interval",67,1
+"Closed-form",0.1,0.1,0.9,500,"point_estimate_outside_open_unit_interval",21,1
+"Closed-form",0.1,0.1,0.9,750,"point_estimate_outside_open_unit_interval",7,1
+"Closed-form",0.1,0.1,0.9,1000,"point_estimate_outside_open_unit_interval",1,1
+"Closed-form",0.1,0.1,0.93,100,"point_estimate_outside_open_unit_interval",125,1
+"Closed-form",0.1,0.1,0.93,250,"point_estimate_outside_open_unit_interval",26,1
+"Closed-form",0.1,0.1,0.93,500,"point_estimate_outside_open_unit_interval",1,1
+"Closed-form",0.1,0.1,0.96,100,"point_estimate_outside_open_unit_interval",63,1
+"Closed-form",0.1,0.1,0.96,250,"point_estimate_outside_open_unit_interval",13,1
+"Closed-form",0.1,0.1,0.99,100,"point_estimate_outside_open_unit_interval",176,1
+"Closed-form",0.1,0.1,0.99,250,"point_estimate_outside_open_unit_interval",10,1
+"Closed-form",0.1,0.2,0.9,100,"k_den_nonpositive_or_nonfinite",2,0.0166666666666667
+"Closed-form",0.1,0.2,0.9,100,"point_estimate_outside_open_unit_interval",118,0.983333333333333
+"Closed-form",0.1,0.2,0.9,250,"point_estimate_outside_open_unit_interval",19,1
+"Closed-form",0.1,0.2,0.93,100,"k_den_nonpositive_or_nonfinite",1,0.0169491525423729
+"Closed-form",0.1,0.2,0.93,100,"point_estimate_outside_open_unit_interval",58,0.983050847457627
+"Closed-form",0.1,0.2,0.93,250,"point_estimate_outside_open_unit_interval",3,1
+"Closed-form",0.1,0.2,0.96,100,"point_estimate_outside_open_unit_interval",39,1
+"Closed-form",0.1,0.2,0.99,100,"point_estimate_outside_open_unit_interval",218,1
+"Closed-form",0.1,0.2,0.99,250,"point_estimate_outside_open_unit_interval",68,1
+"Closed-form",0.1,0.2,0.99,500,"point_estimate_outside_open_unit_interval",12,1
+"Closed-form",0.1,0.2,0.99,750,"point_estimate_outside_open_unit_interval",1,1
+"Closed-form",0.1,0.3,0.9,100,"k_den_nonpositive_or_nonfinite",4,0.025
+"Closed-form",0.1,0.3,0.9,100,"point_estimate_outside_open_unit_interval",156,0.975
+"Closed-form",0.1,0.3,0.9,250,"point_estimate_outside_open_unit_interval",27,1
+"Closed-form",0.1,0.3,0.93,100,"k_den_nonpositive_or_nonfinite",2,0.0166666666666667
+"Closed-form",0.1,0.3,0.93,100,"point_estimate_outside_open_unit_interval",118,0.983333333333333
+"Closed-form",0.1,0.3,0.93,250,"point_estimate_outside_open_unit_interval",4,1
+"Closed-form",0.1,0.3,0.96,100,"point_estimate_outside_open_unit_interval",109,1
+"Closed-form",0.1,0.3,0.96,250,"point_estimate_outside_open_unit_interval",8,1
+"Closed-form",0.1,0.3,0.99,100,"point_estimate_outside_open_unit_interval",317,1
+"Closed-form",0.1,0.3,0.99,250,"point_estimate_outside_open_unit_interval",145,1
+"Closed-form",0.1,0.3,0.99,500,"point_estimate_outside_open_unit_interval",53,1
+"Closed-form",0.1,0.3,0.99,750,"point_estimate_outside_open_unit_interval",26,1
+"Closed-form",0.1,0.3,0.99,1000,"point_estimate_outside_open_unit_interval",6,1
+"Closed-form",0.1,0.4,0.9,100,"k_den_nonpositive_or_nonfinite",23,0.0801393728222996
+"Closed-form",0.1,0.4,0.9,100,"point_estimate_outside_open_unit_interval",264,0.9198606271777
+"Closed-form",0.1,0.4,0.9,250,"point_estimate_outside_open_unit_interval",58,1
+"Closed-form",0.1,0.4,0.9,500,"point_estimate_outside_open_unit_interval",9,1
+"Closed-form",0.1,0.4,0.93,100,"k_den_nonpositive_or_nonfinite",8,0.0361990950226244
+"Closed-form",0.1,0.4,0.93,100,"point_estimate_outside_open_unit_interval",213,0.963800904977376
+"Closed-form",0.1,0.4,0.93,250,"point_estimate_outside_open_unit_interval",51,1
+"Closed-form",0.1,0.4,0.93,500,"point_estimate_outside_open_unit_interval",7,1
+"Closed-form",0.1,0.4,0.96,100,"k_den_nonpositive_or_nonfinite",2,0.00925925925925926
+"Closed-form",0.1,0.4,0.96,100,"point_estimate_outside_open_unit_interval",214,0.990740740740741
+"Closed-form",0.1,0.4,0.96,250,"point_estimate_outside_open_unit_interval",65,1
+"Closed-form",0.1,0.4,0.96,500,"point_estimate_outside_open_unit_interval",8,1
+"Closed-form",0.1,0.4,0.96,750,"point_estimate_outside_open_unit_interval",4,1
+"Closed-form",0.1,0.4,0.96,1000,"point_estimate_outside_open_unit_interval",1,1
+"Closed-form",0.1,0.4,0.99,100,"point_estimate_outside_open_unit_interval",409,1
+"Closed-form",0.1,0.4,0.99,250,"point_estimate_outside_open_unit_interval",257,1
+"Closed-form",0.1,0.4,0.99,500,"point_estimate_outside_open_unit_interval",140,1
+"Closed-form",0.1,0.4,0.99,750,"point_estimate_outside_open_unit_interval",82,1
+"Closed-form",0.1,0.4,0.99,1000,"point_estimate_outside_open_unit_interval",50,1
+"Closed-form",0.15,0.1,0.9,100,"point_estimate_outside_open_unit_interval",102,1
+"Closed-form",0.15,0.1,0.9,250,"point_estimate_outside_open_unit_interval",9,1
+"Closed-form",0.15,0.1,0.9,500,"point_estimate_outside_open_unit_interval",1,1
+"Closed-form",0.15,0.1,0.93,100,"point_estimate_outside_open_unit_interval",53,1
+"Closed-form",0.15,0.1,0.93,250,"point_estimate_outside_open_unit_interval",1,1
+"Closed-form",0.15,0.1,0.96,100,"point_estimate_outside_open_unit_interval",22,1
+"Closed-form",0.15,0.1,0.99,100,"point_estimate_outside_open_unit_interval",133,1
+"Closed-form",0.15,0.1,0.99,250,"point_estimate_outside_open_unit_interval",5,1
+"Closed-form",0.15,0.2,0.9,100,"point_estimate_outside_open_unit_interval",46,1
+"Closed-form",0.15,0.2,0.9,250,"point_estimate_outside_open_unit_interval",1,1
+"Closed-form",0.15,0.2,0.93,100,"point_estimate_outside_open_unit_interval",23,1
+"Closed-form",0.15,0.2,0.96,100,"point_estimate_outside_open_unit_interval",33,1
+"Closed-form",0.15,0.2,0.99,100,"point_estimate_outside_open_unit_interval",228,1
+"Closed-form",0.15,0.2,0.99,250,"point_estimate_outside_open_unit_interval",79,1
+"Closed-form",0.15,0.2,0.99,500,"point_estimate_outside_open_unit_interval",21,1
+"Closed-form",0.15,0.2,0.99,750,"point_estimate_outside_open_unit_interval",3,1
+"Closed-form",0.15,0.2,0.99,1000,"point_estimate_outside_open_unit_interval",3,1
+"Closed-form",0.15,0.3,0.9,100,"point_estimate_outside_open_unit_interval",78,1
+"Closed-form",0.15,0.3,0.9,250,"point_estimate_outside_open_unit_interval",5,1
+"Closed-form",0.15,0.3,0.93,100,"point_estimate_outside_open_unit_interval",62,1
+"Closed-form",0.15,0.3,0.93,250,"point_estimate_outside_open_unit_interval",3,1
+"Closed-form",0.15,0.3,0.96,100,"point_estimate_outside_open_unit_interval",80,1
+"Closed-form",0.15,0.3,0.96,250,"point_estimate_outside_open_unit_interval",11,1
+"Closed-form",0.15,0.3,0.96,500,"point_estimate_outside_open_unit_interval",1,1
+"Closed-form",0.15,0.3,0.99,100,"point_estimate_outside_open_unit_interval",316,1
+"Closed-form",0.15,0.3,0.99,250,"point_estimate_outside_open_unit_interval",183,1
+"Closed-form",0.15,0.3,0.99,500,"point_estimate_outside_open_unit_interval",88,1
+"Closed-form",0.15,0.3,0.99,750,"point_estimate_outside_open_unit_interval",42,1
+"Closed-form",0.15,0.3,0.99,1000,"point_estimate_outside_open_unit_interval",27,1
+"Closed-form",0.15,0.4,0.9,100,"k_den_nonpositive_or_nonfinite",1,0.00540540540540541
+"Closed-form",0.15,0.4,0.9,100,"point_estimate_outside_open_unit_interval",184,0.994594594594595
+"Closed-form",0.15,0.4,0.9,250,"point_estimate_outside_open_unit_interval",27,1
+"Closed-form",0.15,0.4,0.9,500,"point_estimate_outside_open_unit_interval",1,1
+"Closed-form",0.15,0.4,0.9,750,"point_estimate_outside_open_unit_interval",1,1
+"Closed-form",0.15,0.4,0.93,100,"k_den_nonpositive_or_nonfinite",1,0.00581395348837209
+"Closed-form",0.15,0.4,0.93,100,"point_estimate_outside_open_unit_interval",171,0.994186046511628
+"Closed-form",0.15,0.4,0.93,250,"point_estimate_outside_open_unit_interval",21,1
+"Closed-form",0.15,0.4,0.93,500,"point_estimate_outside_open_unit_interval",2,1
+"Closed-form",0.15,0.4,0.96,100,"k_den_nonpositive_or_nonfinite",1,0.00555555555555556
+"Closed-form",0.15,0.4,0.96,100,"point_estimate_outside_open_unit_interval",179,0.994444444444444
+"Closed-form",0.15,0.4,0.96,250,"point_estimate_outside_open_unit_interval",58,1
+"Closed-form",0.15,0.4,0.96,500,"point_estimate_outside_open_unit_interval",8,1
+"Closed-form",0.15,0.4,0.96,750,"point_estimate_outside_open_unit_interval",3,1
+"Closed-form",0.15,0.4,0.96,1000,"point_estimate_outside_open_unit_interval",1,1
+"Closed-form",0.15,0.4,0.99,100,"point_estimate_outside_open_unit_interval",378,1
+"Closed-form",0.15,0.4,0.99,250,"point_estimate_outside_open_unit_interval",285,1
+"Closed-form",0.15,0.4,0.99,500,"point_estimate_outside_open_unit_interval",175,1
+"Closed-form",0.15,0.4,0.99,750,"point_estimate_outside_open_unit_interval",124,1
+"Closed-form",0.15,0.4,0.99,1000,"point_estimate_outside_open_unit_interval",96,1
+"Closed-form",0.2,0.1,0.9,100,"point_estimate_outside_open_unit_interval",47,1
+"Closed-form",0.2,0.1,0.9,250,"point_estimate_outside_open_unit_interval",7,1
+"Closed-form",0.2,0.1,0.93,100,"point_estimate_outside_open_unit_interval",25,1
+"Closed-form",0.2,0.1,0.96,100,"point_estimate_outside_open_unit_interval",8,1
+"Closed-form",0.2,0.1,0.99,100,"point_estimate_outside_open_unit_interval",92,1
+"Closed-form",0.2,0.1,0.99,250,"point_estimate_outside_open_unit_interval",17,1
+"Closed-form",0.2,0.2,0.9,100,"point_estimate_outside_open_unit_interval",16,1
+"Closed-form",0.2,0.2,0.93,100,"point_estimate_outside_open_unit_interval",9,1
+"Closed-form",0.2,0.2,0.96,100,"point_estimate_outside_open_unit_interval",21,1
+"Closed-form",0.2,0.2,0.99,100,"point_estimate_outside_open_unit_interval",250,1
+"Closed-form",0.2,0.2,0.99,250,"point_estimate_outside_open_unit_interval",123,1
+"Closed-form",0.2,0.2,0.99,500,"point_estimate_outside_open_unit_interval",23,1
+"Closed-form",0.2,0.2,0.99,750,"point_estimate_outside_open_unit_interval",13,1
+"Closed-form",0.2,0.2,0.99,1000,"point_estimate_outside_open_unit_interval",4,1
+"Closed-form",0.2,0.3,0.9,100,"point_estimate_outside_open_unit_interval",67,1
+"Closed-form",0.2,0.3,0.9,250,"point_estimate_outside_open_unit_interval",1,1
+"Closed-form",0.2,0.3,0.93,100,"point_estimate_outside_open_unit_interval",67,1
+"Closed-form",0.2,0.3,0.93,250,"point_estimate_outside_open_unit_interval",2,1
+"Closed-form",0.2,0.3,0.96,100,"point_estimate_outside_open_unit_interval",91,1
+"Closed-form",0.2,0.3,0.96,250,"point_estimate_outside_open_unit_interval",13,1
+"Closed-form",0.2,0.3,0.96,500,"point_estimate_outside_open_unit_interval",2,1
+"Closed-form",0.2,0.3,0.99,100,"point_estimate_outside_open_unit_interval",321,1
+"Closed-form",0.2,0.3,0.99,250,"point_estimate_outside_open_unit_interval",213,1
+"Closed-form",0.2,0.3,0.99,500,"point_estimate_outside_open_unit_interval",110,1
+"Closed-form",0.2,0.3,0.99,750,"point_estimate_outside_open_unit_interval",75,1
+"Closed-form",0.2,0.3,0.99,1000,"point_estimate_outside_open_unit_interval",47,1
+"Closed-form",0.2,0.4,0.9,100,"k_den_nonpositive_or_nonfinite",1,0.00671140939597315
+"Closed-form",0.2,0.4,0.9,100,"point_estimate_outside_open_unit_interval",148,0.993288590604027
+"Closed-form",0.2,0.4,0.9,250,"point_estimate_outside_open_unit_interval",27,1
+"Closed-form",0.2,0.4,0.9,500,"point_estimate_outside_open_unit_interval",1,1
+"Closed-form",0.2,0.4,0.93,100,"point_estimate_outside_open_unit_interval",132,1
+"Closed-form",0.2,0.4,0.93,250,"point_estimate_outside_open_unit_interval",34,1
+"Closed-form",0.2,0.4,0.93,500,"point_estimate_outside_open_unit_interval",2,1
+"Closed-form",0.2,0.4,0.96,100,"point_estimate_outside_open_unit_interval",197,1
+"Closed-form",0.2,0.4,0.96,250,"point_estimate_outside_open_unit_interval",78,1
+"Closed-form",0.2,0.4,0.96,500,"point_estimate_outside_open_unit_interval",12,1
+"Closed-form",0.2,0.4,0.96,750,"point_estimate_outside_open_unit_interval",4,1
+"Closed-form",0.2,0.4,0.96,1000,"point_estimate_outside_open_unit_interval",2,1
+"Closed-form",0.2,0.4,0.99,100,"point_estimate_outside_open_unit_interval",398,1
+"Closed-form",0.2,0.4,0.99,250,"point_estimate_outside_open_unit_interval",308,1
+"Closed-form",0.2,0.4,0.99,500,"point_estimate_outside_open_unit_interval",212,1
+"Closed-form",0.2,0.4,0.99,750,"point_estimate_outside_open_unit_interval",167,1
+"Closed-form",0.2,0.4,0.99,1000,"point_estimate_outside_open_unit_interval",121,1
+"Numerical BFGS",0.05,0.1,0.9,100,"hessian_not_positive_definite",10,1
+"Numerical BFGS",0.05,0.1,0.9,250,"hessian_not_positive_definite",1,1
+"Numerical BFGS",0.05,0.1,0.93,100,"hessian_not_positive_definite",10,1
+"Numerical BFGS",0.05,0.1,0.96,100,"hessian_not_positive_definite",3,1
+"Numerical BFGS",0.05,0.1,0.99,100,"hessian_not_positive_definite",4,1
+"Numerical BFGS",0.05,0.2,0.9,100,"hessian_not_positive_definite",22,1
+"Numerical BFGS",0.05,0.2,0.9,250,"hessian_not_positive_definite",1,1
+"Numerical BFGS",0.05,0.2,0.93,100,"hessian_not_positive_definite",17,1
+"Numerical BFGS",0.05,0.2,0.96,100,"hessian_not_positive_definite",9,1
+"Numerical BFGS",0.05,0.2,0.99,100,"hessian_not_positive_definite",11,1
+"Numerical BFGS",0.05,0.3,0.9,100,"hessian_not_positive_definite",63,1
+"Numerical BFGS",0.05,0.3,0.93,100,"hessian_not_positive_definite",39,1
+"Numerical BFGS",0.05,0.3,0.96,100,"hessian_not_positive_definite",20,1
+"Numerical BFGS",0.05,0.3,0.99,100,"hessian_not_positive_definite",20,1
+"Numerical BFGS",0.05,0.4,0.9,100,"hessian_not_positive_definite",133,1
+"Numerical BFGS",0.05,0.4,0.9,250,"hessian_not_positive_definite",18,1
+"Numerical BFGS",0.05,0.4,0.93,100,"hessian_not_positive_definite",71,1
+"Numerical BFGS",0.05,0.4,0.93,250,"hessian_not_positive_definite",2,1
+"Numerical BFGS",0.05,0.4,0.96,100,"hessian_not_positive_definite",32,1
+"Numerical BFGS",0.05,0.4,0.99,100,"hessian_not_positive_definite",47,1
+"Numerical BFGS",0.1,0.2,0.9,100,"hessian_not_positive_definite",2,1
+"Numerical BFGS",0.1,0.2,0.93,100,"hessian_not_positive_definite",1,1
+"Numerical BFGS",0.1,0.3,0.9,100,"hessian_not_positive_definite",6,1
+"Numerical BFGS",0.1,0.3,0.93,100,"hessian_not_positive_definite",2,1
+"Numerical BFGS",0.1,0.4,0.9,100,"hessian_not_positive_definite",27,1
+"Numerical BFGS",0.1,0.4,0.93,100,"hessian_not_positive_definite",9,1
+"Numerical BFGS",0.1,0.4,0.96,100,"hessian_not_positive_definite",2,1
+"Numerical BFGS",0.15,0.4,0.9,100,"hessian_not_positive_definite",2,1
+"Numerical BFGS",0.15,0.4,0.93,100,"hessian_not_positive_definite",1,1
+"Numerical BFGS",0.15,0.4,0.96,100,"hessian_not_positive_definite",1,1
+"Numerical BFGS",0.2,0.4,0.9,100,"hessian_not_positive_definite",1,1

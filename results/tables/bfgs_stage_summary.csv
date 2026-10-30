@@ -1,0 +1,3 @@
+"point_estimation_success","inference_success","failure_stage","failure_reason","frequency","proportion"
+TRUE,TRUE,"none","ok",319413,0.998165625
+TRUE,FALSE,"hessian","hessian_not_positive_definite",587,0.001834375

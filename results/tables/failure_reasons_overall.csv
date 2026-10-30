@@ -1,0 +1,4 @@
+"method","failure_reason","frequency","proportion"
+"Closed-form","k_den_nonpositive_or_nonfinite",583,0.0301853577715647
+"Closed-form","point_estimate_outside_open_unit_interval",18731,0.969814642228435
+"Numerical BFGS","hessian_not_positive_definite",587,1

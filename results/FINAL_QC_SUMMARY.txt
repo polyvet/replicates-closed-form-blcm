@@ -1,0 +1,87 @@
+REPLICATED DIAGNOSTIC-TEST SIMULATION: FINAL CORRECTED PACKAGE
+Date: 2026-07-23
+
+Authoritative output folder:
+results/ (this repository)
+
+Scope
+-----
+320 scenarios x 1,000 simulated datasets x 2 methods = 640,000 rows.
+The completed simulated count vectors were retained. The BFGS fits were
+rerun only for the 758 datasets whose closed-form starting status changed.
+
+Final code corrections
+----------------------
+1. Removed inherited R names during the mirror transformation.
+2. Used deterministic multistart BFGS and retained the admissible fit with
+   the largest log-likelihood.
+3. Distinguished successful point estimation from Hessian/CI inference.
+4. Treated a2-a1^2 <= sqrt(.Machine$double.eps) as closed-form
+   inadmissibility instead of replacing a negative value by its absolute value.
+5. Treated estimates within sqrt(.Machine$double.eps) of 0 or 1 as being
+   on the boundary of the open unit interval.
+
+Final joint admissibility
+-------------------------
+Both admissible:       300,686 (93.964375%)
+BFGS only:              18,727 ( 5.852188%)
+Closed-form only:            0 ( 0.000000%)
+Neither admissible:        587 ( 0.183438%)
+
+Final failure classifications
+-----------------------------
+Closed-form:
+  point_estimate_outside_open_unit_interval: 18,731
+  k_den_nonpositive_or_nonfinite:                583
+
+Numerical BFGS:
+  hessian_not_positive_definite:                 587
+
+All 320,000 BFGS point estimations succeeded. The 587 BFGS failures were
+inference-stage Hessian failures. No inadmissible result is labelled "ok".
+
+Matched comparison
+------------------
+Number admissible by both methods: 300,686
+
+Median absolute estimate difference:
+  p:      3.164136e-15
+  alpha:  7.660539e-15
+  gamma:  1.887379e-15
+
+Maximum absolute estimate difference:
+  p:      1.705964e-08
+  alpha:  3.183589e-08
+  gamma:  6.501807e-09
+
+The matched coverage difference was exactly zero for all three parameters.
+
+Spike assessment
+----------------
+All seven formerly flagged BFGS scenarios (IDs 145, 161, 178, 182, 186,
+190 and 241) had zero BFGS failures in the final run. No current local
+inadmissibility spike exceeded five percentage points.
+
+Quality-control checks
+----------------------
+- 640,000 unique scenario x replicate x method rows.
+- 320,000 unique simulated datasets.
+- 1,000 replicates per scenario and method.
+- All y0+y1+y2+y3 totals equal N.
+- Both methods use identical count vectors within each dataset.
+- All admissible estimates and intervals are finite and correctly ordered.
+- No admissible closed-form result has nonpositive moment variance.
+- No admissible closed-form estimate is numerically on the boundary.
+- The Excel workbook exactly matches the CSV exports and authoritative RDS.
+- All five PDF files render without blank, clipped or malformed panels.
+
+Authoritative files
+-------------------
+simulation_replicate_results.rds
+simulation_replicate_results.csv
+simulation_complete_analysis.xlsx
+Figure_bias.pdf
+Figure_MSE.pdf
+Figure_coverage.pdf
+Figure_inadmissibility.pdf
+Figure_all_metrics_multi_prevalence.pdf

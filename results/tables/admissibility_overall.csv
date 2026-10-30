@@ -1,0 +1,4 @@
+"status","frequency","proportion"
+"BFGS only",18727,0.058521875
+"Both admissible",300686,0.93964375
+"Neither admissible",587,0.001834375

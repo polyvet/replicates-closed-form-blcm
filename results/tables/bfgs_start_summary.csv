@@ -1,0 +1,13 @@
+"selected_start","n_starts_attempted","admissible","failure_stage","failure_reason","frequency","proportion"
+"closed_form",2,TRUE,"none","ok",297820,0.9306875
+"low_prevalence",5,TRUE,"none","ok",4361,0.013628125
+"lower_accuracy",5,TRUE,"none","ok",3934,0.01229375
+"high_accuracy",5,TRUE,"none","ok",3712,0.0116
+"moderate",5,TRUE,"none","ok",3434,0.01073125
+"original_fixed",5,TRUE,"none","ok",3286,0.01026875
+"original_fixed",2,TRUE,"none","ok",2866,0.00895625
+"lower_accuracy",5,FALSE,"hessian","hessian_not_positive_definite",245,0.000765625
+"moderate",5,FALSE,"hessian","hessian_not_positive_definite",214,0.00066875
+"original_fixed",5,FALSE,"hessian","hessian_not_positive_definite",91,0.000284375
+"low_prevalence",5,FALSE,"hessian","hessian_not_positive_definite",35,0.000109375
+"high_accuracy",5,FALSE,"hessian","hessian_not_positive_definite",2,6.25e-06

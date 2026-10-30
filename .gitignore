@@ -1,0 +1,8 @@
+.DS_Store
+.Rhistory
+.RData
+.Rproj.user/
+results/full_run/
+**/scenario_checkpoints/
+*.rds
+results/tables/simulation_replicate_results.csv
