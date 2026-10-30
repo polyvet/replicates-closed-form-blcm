@@ -18,7 +18,7 @@ The repository reproduces the worked examples (Table 3) and the Monte Carlo simu
 | `results/figures/` | Bias, MSE, coverage and inadmissibility figures from the final run. |
 | `results/FINAL_QC_SUMMARY.txt` | Quality-control summary of the final run. |
 
-The replicate-level results (640,000 rows) are not stored here because of their size (31 MB as `.rds`, 238 MB as `.csv`). They are regenerated exactly by `R/simulation_closed_form_vs_bfgs.R` (see Reproducibility) and are available from the authors on request.
+The replicate-level results (640,000 rows) are not stored here because of their size (31 MB as `.rds`, 238 MB as `.csv`). They can be regenerated with `R/simulation_closed_form_vs_bfgs.R` (see Reproducibility) and are available from the authors on request.
 
 ## Requirements
 
